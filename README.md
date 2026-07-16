@@ -24,7 +24,3 @@
 </div>
 
 
-
-## 🏢 My Organizations (Clickable)
-
-
