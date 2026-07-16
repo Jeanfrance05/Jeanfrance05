@@ -12,7 +12,7 @@
 <div data-importer="techs" align="left">
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img src="<div class="tenor-gif-embed" data-postid="14346538640255991651" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bow-gif-14346538640255991651">Bow Sticker</a>from <a href="https://tenor.com/search/bow-stickers">Bow Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
