@@ -20,20 +20,41 @@
 
 ###
 
+<p data-importer="text" align="left">Social Media</p>
+
+###
+
+<img data-importer="image" align="left" height="53" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left">programming languages</p>
+
+###
+
 <p data-importer="text" align="left">︵‿︵‿୨♡୧‿︵‿︵</p>
 
 ###
 
-<h6 data-importer="text" align="left">Social Media</h6>
+<br clear="both">
+
+<img data-importer="image" align="left" height="66" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
 
 ###
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-</div>
+<img data-importer="image" align="left" height="53" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
 
+###
+
+<img data-importer="image" align="left" height="53" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+
+###
+
+<img data-importer="image" align="left" height="53" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+
+###
 ###
 
 
