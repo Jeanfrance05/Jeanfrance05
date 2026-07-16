@@ -39,16 +39,16 @@
 
 <br clear="both">
 
-<img width=30 src="./assets/icons8-javascript.gif"/>
+<img src="./assets/icons8-javascript.gif" width="30" align="left">
 
 ###
 
-<img width=30 src="./assets/icons8-javascript.gif"/> 
+<img src="./assets/icons8-javascript.gif" width="30" align="left">
 
 
 ###
 
-<img width=30 src="./assets/icons8-javascript.gif"/> 
+<img src="./assets/icons8-javascript.gif" width="30" align="left">
 ###
 ###
 
