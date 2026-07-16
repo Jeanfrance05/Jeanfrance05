@@ -9,7 +9,7 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img width=12 src="./assets/icons8-javascript.gif"/>   height="40" alt="icons8-javascript"  />
+  <img width=30 src="./assets/icons8-javascript.gif"/> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
