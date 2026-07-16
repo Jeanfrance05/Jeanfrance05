@@ -39,17 +39,8 @@
 
 <br clear="both">
 
-<img src="./assets/icons8-javascript.gif" width="30" align="left">
-
-###
-
-<img src="./assets/icons8-javascript.gif" width="30" align="left">
-
-
-###
-
-<img src="./assets/icons8-javascript.gif" width="30" align="left">
-###
-###
+<img src="./assets/icons8-javascript.gif" width="30" style="margin-right: 10px;">
+<img src="./assets/icons8-html.gif" width="30" style="margin-right: 10px;">
+<img src="./assets/icons8-css.gif" width="30">
 
 
