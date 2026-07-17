@@ -114,9 +114,7 @@
   <img src="https://cdn.simpleicons.org/duolingo" width="45" alt="English Learning"/>
 
 </div>
-<br>
 
-<br><br>
 
 <!-- EFECTO DE ASOMARSE AL FINAL -->
 <div align="center">
