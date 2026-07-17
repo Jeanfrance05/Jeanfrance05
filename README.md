@@ -13,35 +13,44 @@
 </div>
 
 <br>
-
-<p align="left">Platforms</p>
+## ☁️ Platforms
 
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>
 </div>
 
-<br>
+---
 
-<p align="left">Social Media</p>
-
-<img align="left" height="53" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
-
-<br clear="both">
-
-<p align="left">Programming Languages</p>
-
-<p align="left">︵‿︵‿୨♡୧‿︵‿︵</p>
+## 🌸 Social Media
 
 <div align="left">
-  <img src="./assets/icons8-javascript.gif" width="48" alt="JavaScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+</div>
+
+---
+
+## 💻 Programming Languages
+
+<div align="left">
+  <img src="./assets/icons8-javascript.gif" width="48"/>
+  <img width="10"/>
+  <img src="./assets/icons8-html.gif" width="48"/>
+  <img width="10"/>
+  <img src="./assets/icons8-css.gif" width="48"/>
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img width="12"/>
-  <img src="./assets/icons8-html.gif" width="48" alt="HTML"/>
-  <img width="12"/>
-  <img src="./assets/icons8-css.gif" width="48" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</div>
 </div>
 
