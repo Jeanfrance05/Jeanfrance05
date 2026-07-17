@@ -116,8 +116,10 @@
 </div>
 <br>
 
-<!-- Imagen de Fluttershy pegada al puro final -->
+<br><br>
+
+<!-- EFECTO DE ASOMARSE AL FINAL -->
 <div align="center">
-  <img src="./assets/flu.png" width="250" style="display: block; margin: 0 auto;" alt="Fluttershy peeking" />
-  <hr style="margin-top: 0; border: 1px solid #30363d;" />
+  <!-- Asegúrate de cambiar 'peeking.png' por el nombre que le diste a la imagen recortada -->
+  <img src="./assets/flu.png" width="800" style="display: block; margin: 0 auto -20px auto;" alt="Fluttershy peeking from the bottom" />
 </div>
