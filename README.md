@@ -117,5 +117,5 @@
 
 <!-- ESTE ES EL BLOQUE DEL FINAL PARA EL EFECTO DE ASOMARSE -->
 <div align="center">
-  <img src="./assets/imag.png" width="200" alt="imag" />
+  <img src="./assets/flu.png" width="200" alt="imag" />
 </div>
