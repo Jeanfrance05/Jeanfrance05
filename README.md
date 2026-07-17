@@ -36,6 +36,8 @@
 <div align="left">
   <img src="./assets/icons8-javascript.gif" width="48"/>
   <img width="12"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=32&pause=1000&color=E0DFF1&center=true&vCenter=true&width=600&lines=Hi!+I'm+Jenniee;Software+Developer;Frontend+Developer;Always+learning+new+things!" />
   <img src="./assets/icons8-html.gif" width="48"/>
   <img width="12"/>
   <img src="./assets/icons8-css.gif" width="48"/>
