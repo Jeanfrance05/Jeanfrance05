@@ -25,40 +25,15 @@
 
 <br>
 
+<!-- ☁️ Platforms -->
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=180&height=25&lines=%E2%98%81%EF%B8%8F+Platforms" />
+
 <!-- 🌸 Social Media -->
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=240&height=35&lines=%F0%9F%8C%B8+Social+Media" />
-
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
-</div>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=200&height=25&lines=%F0%9F%8C%B8+Social+Media" />
 
 <!-- 💻 Programming Languages -->
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=360&height=35&lines=%F0%9F%92%BB+Programming+Languages" />
-
-<div align="left">
-  <img src="./assets/icons8-javascript.gif" width="48"/>
-  <img width="10"/>
-  <img src="./assets/icons8-html.gif" width="48"/>
-  <img width="10"/>
-  <img src="./assets/icons8-css.gif" width="48"/>
-</div>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=300&height=25&lines=%F0%9F%92%BB+Programming+Languages" />
 
 <!-- 🌱 Currently Learning -->
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=280&height=35&lines=%F0%9F%8C%B1+Currently+Learning" />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</div>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</div>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=220&height=25&lines=%F0%9F%8C%B1+Currently+Learning" />
 
