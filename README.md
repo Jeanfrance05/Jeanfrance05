@@ -12,7 +12,8 @@
 
 </div>
 
-## ☁️ Platforms
+<!-- ☁️ Platforms -->
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=220&height=35&lines=%E2%98%81%EF%B8%8F+Platforms" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
@@ -22,17 +23,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>
 </div>
 
----
+<br>
 
-## 🌸 Social Media
+<!-- 🌸 Social Media -->
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=240&height=35&lines=%F0%9F%8C%B8+Social+Media" />
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
 </div>
 
----
+<br>
 
-## 💻 Programming Languages
+<!-- 💻 Programming Languages -->
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=360&height=35&lines=%F0%9F%92%BB+Programming+Languages" />
 
 <div align="left">
   <img src="./assets/icons8-javascript.gif" width="48"/>
@@ -42,12 +45,18 @@
   <img src="./assets/icons8-css.gif" width="48"/>
 </div>
 
----
+<br>
 
-## 🌱 Currently Learning
+<!-- 🌱 Currently Learning -->
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&duration=1&pause=999999&color=E0DFF1&repeat=false&width=280&height=35&lines=%F0%9F%8C%B1+Currently+Learning" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</div>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </div>
