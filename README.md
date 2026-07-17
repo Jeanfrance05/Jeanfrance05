@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="300" src="./assets/main.gif"/>
+  <img width="300" src="./assets/main.gif"/>
 
-<br><br>
+  <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings,+People!+I'm+Jenniee!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings,+People!+I'm+Jenniee!" alt="Typing SVG" />
 
-<br>
+  <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=22&duration=2500&pause=1500&color=CFCBFF&center=true&vCenter=true&width=700&lines=Technical+Support+Specialist;Systems+Engineering+Student;Learning+Web+Development;Always+learning+something+new+%F0%9F%8C%B8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=22&duration=2500&pause=1500&color=CFCBFF&center=true&vCenter=true&width=700&lines=Technical+Support+Specialist;Systems+Engineering+Student;Learning+Web+Development;Always+learning+something+new+%F0%9F%8C%B8" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <!-- Platforms -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=180&height=25&lines=%E2%98%81%EF%B8%8F+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=180&height=25&lines=Platforms" />
 
 <div align="left">
 
@@ -40,25 +40,25 @@
 
 <!-- Social Media -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=200&height=25&lines=%F0%9F%8C%B8+Social+Media" />
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=200&height=25&lines=Social+Media" />
 
 
 <div align="left">
 
-  <a href="TU_LINK_DISCORD" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="45" alt="Discord"/>
+  <a href="TU_LINK_DISCORD">
+    <img src="https://cdn.simpleicons.org/discord" width="45" alt="Discord"/>
   </a>
 
   <img width="12"/>
 
   <a href="mailto:TU_CORREO@correo.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="45" alt="Outlook"/>
+    <img src="./assets/correo.png" width="48" alt="correo"/>
   </a>
 
   <img width="12"/>
 
-  <a href="TU_LINK_BEHANCE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="45" alt="Behance"/>
+  <a href="TU_LINK_BEHANCE">
+    <img src="https://cdn.simpleicons.org/behance" width="45" alt="Behance"/>
   </a>
 
 </div>
@@ -70,7 +70,7 @@
 <!-- Programming Languages -->
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=300&height=25&lines=%F0%9F%92%BB+Programming+Languages" />
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=300&height=25&lines=Programming+Languages" />
 
 
 <div align="left">
@@ -98,7 +98,7 @@
 <!-- Currently Learning -->
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=220&height=25&lines=%F0%9F%8C%B1+Currently+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=220&height=25&lines=Currently+Learning" />
 
 
 <div align="left">
@@ -111,10 +111,6 @@
 
   <img width="12"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" alt="English Learning"/>
+  <img src="https://cdn.simpleicons.org/duolingo" width="45" alt="English Learning"/>
 
 </div>
