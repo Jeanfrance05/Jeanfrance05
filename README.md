@@ -114,8 +114,9 @@
   <img src="https://cdn.simpleicons.org/duolingo" width="45" alt="English Learning"/>
 
 </div>
+<br>
 
-<!-- ESTE ES EL BLOQUE DEL FINAL PARA EL EFECTO DE ASOMARSE -->
+<!-- Imagen de Fluttershy pegada al puro final -->
 <div align="center">
-  <img src="./assets/flu.png" width="200" alt="imag" />
+  <img src="./assets/flu.png" width="800" style="display: block; margin: 0 auto -10px auto;" alt="flu" />
 </div>
