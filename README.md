@@ -12,7 +12,6 @@
 
 </div>
 
-<br>
 ## ☁️ Platforms
 
 <div align="left">
