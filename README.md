@@ -37,9 +37,9 @@
 
 ###
 
-<img src="./assets/icons8-javascript.gif" width="48"/>
-<img width="12"/>
-<img src="./assets/icons8-html.gif" width="48"/>
-<img width="12"/>
-<img src="./assets/icons8-css.gif" width="48"/>
+<div align="left">
+  <img src="./assets/icons8-javascript.gif" width="48" alt="JavaScript"/>
+  <img src="./assets/icons8-html.gif" width="48" alt="HTML"/>
+  <img src="./assets/icons8-css.gif" width="48" alt="CSS"/>
+</div>
 
