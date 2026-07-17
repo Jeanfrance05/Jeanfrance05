@@ -34,11 +34,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=300&height=25&lines=%F0%9F%92%BB+Programming+Languages" />
 
 <div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" alt="Python"/>
+  <img width="10"/>
   <img src="./assets/icons8-javascript.gif" width="48" alt="JavaScript"/>
   <img width="10"/>
   <img src="./assets/icons8-html.gif" width="48" alt="HTML"/>
   <img width="10"/>
   <img src="./assets/icons8-css.gif" width="48" alt="CSS"/>
+  
 </div>
 
 <br>
