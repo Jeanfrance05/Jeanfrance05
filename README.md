@@ -2,13 +2,11 @@
     <img width="300" src="./assets/main.gif"/>
     <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings,+People!+I'm+Jenniee!" alt="Typing SVG" />
-</div>
+ <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings,+People!+I'm+Jenniee!" alt="Typing SVG" />
 
- <br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=22&duration=2500&pause=1500&color=CFCBFF&center=true&vCenter=true&width=700&lines=Technical+Support+Specialist;Systems+Engineering+Student;Learning+Web+Development;Always+learning+something+new+%F0%9F%8C%B8" />
-
 </div>
 
 <!-- ☁️ Platforms -->
