@@ -118,5 +118,6 @@
 
 <!-- Imagen de Fluttershy pegada al puro final -->
 <div align="center">
-  <img src="./assets/flu.png" width="800" style="display: block; margin: 0 auto -10px auto;" alt="flu" />
+  <img src="./assets/flu.png" width="250" style="display: block; margin: 0 auto;" alt="Fluttershy peeking" />
+  <hr style="margin-top: 0; border: 1px solid #30363d;" />
 </div>
