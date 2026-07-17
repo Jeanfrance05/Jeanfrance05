@@ -29,17 +29,15 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">programming languages</p>
+<p align="left">Programming Languages</p>
 
-###
-
-<p data-importer="text" align="left">︵‿︵‿୨♡୧‿︵‿︵</p>
-
-###
+<p align="left">︵‿︵‿୨♡୧‿︵‿︵</p>
 
 <div align="left">
-  <img src="./assets/icons8-javascript.gif" width="48" alt="JavaScript"/>
-  <img src="./assets/icons8-html.gif" width="48" alt="HTML"/>
-  <img src="./assets/icons8-css.gif" width="48" alt="CSS"/>
+  <img src="./assets/icons8-javascript.gif" width="48"/>
+  <img width="12"/>
+  <img src="./assets/icons8-html.gif" width="48"/>
+  <img width="12"/>
+  <img src="./assets/icons8-css.gif" width="48"/>
 </div>
 
