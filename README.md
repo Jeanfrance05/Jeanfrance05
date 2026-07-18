@@ -87,7 +87,6 @@
 
   <img width="10"/>
 
-  <img src="./assets/icons8-css.gif" width="48" alt="CSS"/>
 
 </div>
 
