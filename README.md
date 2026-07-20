@@ -57,7 +57,7 @@
 
   <img width="12"/>
 
-  <a href="TU_LINK_BEHANCE">
+  <a href="https://www.behance.net/jeannieem_r">
     <img src="https://cdn.simpleicons.org/behance" width="45" alt="Behance"/>
   </a>
 
