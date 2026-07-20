@@ -51,7 +51,7 @@
 
   <img width="12"/>
 
-  <a href="mailto:TU_CORREO@correo.com">
+  <a href="mailto:https://outlook.live.com/mail/">
     <img src="./assets/correo.png" width="48" alt="correo"/>
   </a>
 
