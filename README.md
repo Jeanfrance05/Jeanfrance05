@@ -113,8 +113,42 @@
 </div>
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=300&height=25&lines=Certifications" />
+
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+
+  <img width="10"/>
+
+  <img src="./assets/icons8-javascript.gif" width="48" alt="JavaScript"/>
+
+  <img width="10"/>
+
+  <img src="./assets/icons8-html.gif" width="48" alt="HTML"/>
+
+  <img width="10"/>
+
+
+</div>
+
+
+
 <!-- EFECTO DE ASOMARSE AL FINAL -->
 <div align="center">
   <!-- Asegúrate de cambiar 'peeking.png' por el nombre que le diste a la imagen recortada -->
   <img src="./assets/flu.png" width="800" style="display: block; margin: 0 auto -20px auto;" alt="Fluttershy peeking from the bottom" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
