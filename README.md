@@ -45,10 +45,9 @@
 
 <div align="left">
 
-  <a href="TU_LINK_DISCORD">
-    <img src="https://cdn.simpleicons.org/discord" width="45" alt="Discord"/>
-  </a>
-
+ <a href="https://discord.com/users/713254583849451590" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/discord" width="45" alt="Discord"/>
+</a>
   <img width="12"/>
 
  <a href="mailto:Jeanniee500@hotmail.com?subject=Contacto&body=Hola%20Jeanniee,%20me%20gustaría%20ponerme%20en%20contacto%20contigo.">
