@@ -115,22 +115,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&duration=1&pause=999999&color=E0DFF1&repeat=false&width=300&height=25&lines=Certifications" />
 
-
 <div align="left">
 
-
-  <img src="./assets/credly.png" width="48" alt="Credly"/>
-
-  <img width="10"/>
-
-  <img src="./assets/google.png" width="48" alt="Googleskills"/>
+  <a href="https://www.credly.com/users/jenniee" target="_blank">
+    <img src="./assets/credly.png" width="48" alt="Credly"/>
+  </a>
 
   <img width="10"/>
 
-  <img src="./assets/try.png" width="48" alt="TryHakcme"/>
+  <a href="https://www.skills.google/public_profiles/34b3cbd3-12ce-45ce-9ba1-cce9f1635b8a" target="_blank">
+    <img src="./assets/google.png" width="48" alt="Google Skills"/>
+  </a>
 
   <img width="10"/>
 
+  <a href="https://tryhackme.com/p/Jenniee.m.r" target="_blank">
+    <img src="./assets/try.png" width="48" alt="TryHackMe"/>
+  </a>
 
 </div>
 
