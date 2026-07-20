@@ -51,10 +51,9 @@
 
   <img width="12"/>
 
-  <a href="mailto:https://outlook.live.com/mail/">
-    <img src="./assets/correo.png" width="48" alt="correo"/>
-  </a>
-
+ <a href="mailto:Jeanniee500@hotmail.com?subject=Contacto&body=Hola%20Jeanniee,%20me%20gustaría%20ponerme%20en%20contacto%20contigo.">
+  <img src="./assets/correo.png" width="48" alt="Correo"/>
+</a>
   <img width="12"/>
 
   <a href="https://www.behance.net/jeannieem_r">
