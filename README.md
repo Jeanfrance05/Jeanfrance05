@@ -118,15 +118,16 @@
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+
+  <img src="./assets/credly.png" width="48" alt="Credly"/>
 
   <img width="10"/>
 
-  <img src="./assets/icons8-javascript.gif" width="48" alt="JavaScript"/>
+  <img src="./assets/google.png" width="48" alt="Googleskills"/>
 
   <img width="10"/>
 
-  <img src="./assets/icons8-html.gif" width="48" alt="HTML"/>
+  <img src="./assets/try.png" width="48" alt="TryHakcme"/>
 
   <img width="10"/>
 
